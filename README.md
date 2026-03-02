@@ -66,7 +66,7 @@
 ### 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/kandarpprajapati/typescript-starter">
+  <a href="https://github.com/kandarpprajapati/multi-tenant-blog-platform">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kandarpprajapati&repo=typescript-starter&theme=tokyonight" />
   </a>
 </p>
