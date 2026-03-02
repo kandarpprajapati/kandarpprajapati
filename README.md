@@ -42,11 +42,14 @@
 
 ### 📈 Activity & Commit Metrics
 
-<!-- <p align="center">
+<p align="center">
+  <img src="https://ghchart.rshah.org/kandarpprajapati" alt="GitHub Contribution Graph" />
+</p>
+
+<p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kandarpprajapati&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Commits%20Overview" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kandarpprajapati&layout=compact&theme=tokyonight&hide_border=true" />
-</p> -->
-  ![GitHub Contribution Graph](https://ghchart.rshah.org/kandarpprajapati)
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kandarpprajapati&theme=tokyo-night&area=true&hide_border=true&bg_color=0D1117" width="100%" />
