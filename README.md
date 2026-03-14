@@ -47,21 +47,7 @@
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kandarpprajapati&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Commits%20Overview" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kandarpprajapati&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kandarpprajapati&theme=tokyo-night&area=true&hide_border=true&bg_color=0D1117" width="100%" />
-</p>
-
----
-
-### 📊 My Coding Journey
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kandarpprajapati&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kandarpprajapati&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
 
 ---
